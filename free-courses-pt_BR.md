@@ -12,10 +12,12 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [HTML](#html)
+* [IDE](#ide)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [Markdown](#markdown)
 * [Node.js](#nodejs)
 * [PHP](#php)
@@ -30,7 +32,6 @@
 
 * [Android Start - Curso Android - Java Kotlin e Flutter](https://www.udemy.com/android-start-curso-android-basico-java-kotlin-e-flutter/) - Buno de Libero Ferreira (Udemy)
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
-* [Recriando o Status do Whatsapp para Android (Snapchat app)](https://www.udemy.com/status-whatsapp/) - ByLearn Cursos, Alisson Turini Fiorini Bolsoni (Udemy)
 
 
 ### C
@@ -95,6 +96,14 @@
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
 
+### IDE
+
+* [Domine o sublime text](https://www.udemy.com/course/domine-o-sublime-text/) - Alexandre Cardoso (Udemy)
+* [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
+* [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
+* [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
+
+
 ### Ionic
 
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
@@ -105,8 +114,6 @@
 
 * [Curso Desenvolvedor Java com Jdbc,Jpa,Spring,Swing](https://www.udemy.com/curso-desenvolvedor-java-com-jdbc/) - Allan Almeida de Araujo (Udemy)
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
-* [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
-* [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
@@ -123,6 +130,12 @@
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+
+
+### Linux
+
+* [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
+* [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
 
 ### Markdown
@@ -172,7 +185,6 @@
 ### Ruby
 
 * [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Jackson Pires (YouTube)
-* [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/) - Leonardo Scorza (Udemy)
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
 

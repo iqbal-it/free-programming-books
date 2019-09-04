@@ -46,6 +46,7 @@
 * [ESP8266](#esp8266)
 * [F#](#f-sharp)
 * [Firefox OS](#firefox-os)
+* [Flutter](#flutter)
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
@@ -67,6 +68,7 @@
   * [Bootstrap](#bootstrap)
 * [HTTP](#http)
 * [Icon](#icon)
+* [Idris](#idris)
 * [iOS](#ios)
 * [IoT](#iot)
 * [Isabelle/HOL](#isabellehol)
@@ -333,6 +335,7 @@
 
 #### Cloud Computing
 
+* [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
 * [Cloud Design Patterns](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 * [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
@@ -605,6 +608,7 @@
 * [Free Software, Free Society: Selected Essays of Richard M. Stallman](http://shop.fsf.org/product/free-software-free-society-2/)
 * [Getting Started with InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp) (email address *requested*, not required)
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
+* [GitLab Handbook](https://about.gitlab.com/handbook/)
 * [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (ePub & ODT)
 * [Innovation Happens Elsewhere](http://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
@@ -967,6 +971,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object Oriented Programming using C#](http://bookboon.com/en/object-oriented-programming-using-c-sharp-ebook) - Simon Kendal, Bookboon. (email address *requested*, not required)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-eBook/xamarin-cross-platform-development-cookbook) - George Taskos, Packt. (email address *requested*, not required)
+* [Xamarin.Forms Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) (PDF, Kindle) (email address requested, not required)
 
 
 ### C++
@@ -1124,6 +1129,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - Tim Morgan (HTML)
 * [Elixir School](https://elixirschool.com) (HTML)
+* [Elixir Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/elixir-succinctly) (PDF, Kindle) (email address requested, not required)
 * [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642/index.html) (HTML)
 * [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB)](https://github.com/potatogopher/elixir-getting-started)
 * [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source](https://github.com/radar/joyofelixir) (:construction: *in process*)
@@ -1188,6 +1194,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
 
 
+### Flutter
+
+* [Cookbook](https://flutter.dev/docs/cookbook)
+* [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
+* [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+
+
 ### Force.com
 
 * [Developer Workbooks](http://developer.force.com/workbook)
@@ -1237,7 +1250,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
-* [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) - Michael Hartl
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
@@ -1368,6 +1380,11 @@ Kerridge (PDF) (email address *requested*, not required)
 #### HTTP
 
 * [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
+
+
+### Idris
+
+* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti) - Boro Sitnikovski  *(Leanpub account or valid email requested)*
 
 
 ### Icon
@@ -1655,6 +1672,7 @@ Kerridge (PDF) (email address *requested*, not required)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
+* [React.js Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/reactjs_succinctly) (PDF, Kindle) (email address requested, not required)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The Road to learn React - Build a Hacker News App along the Way](https://leanpub.com/the-road-to-learn-react) - Robin Wieruch *(Leanpub account or valid email requested)* [markdown](https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript)
@@ -1727,7 +1745,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
-* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) - Michael Hartl
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Administrator's Security Guide](http://www.linuxtopia.org/online_books/linux_administrators_security_guide/index.html)
@@ -2281,7 +2298,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-* [I Love Ruby](https://mindaslab.github.io/I-Love-Ruby/)
+* [I Love Ruby](https://i-love-ruby.gitlab.io)
 * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
 * [Learn Ruby First](https://www.learnruby.today) - Frederick John
